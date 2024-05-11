@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "923174561078"
+global.ownernumber =  "923164104704"
 global.ownername = "Ghulam-Murtaza"
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Pakistan"
 
-global.ownername = 'Ayush' //owner name
+global.ownername = 'Ghulam-Murtaza' //owner name
 global.botname = 'Titanic Bot' //name of the bot
 
 //sticker details
@@ -20,7 +20,7 @@ global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
+global.link = 'https://whatsapp.com/channel/0029VaDcCCB7Noa3FL9I4S3U'
 
 //custom prefix
 global.prefa = ['.']
